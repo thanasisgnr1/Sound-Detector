@@ -27,7 +27,7 @@ start = time.time()
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(pin, GPIO.IN)   
 
-red = "/home/pi/Pictures/colors/red.png"
+red = "/home/pi/Pictures/colors/red.png" # prepei na ftiaxtei to path
 green = "/home/pi/Pictures/colors/green.png"
 yellow = "/home/pi/Pictures/colors/yellow.png"
 
